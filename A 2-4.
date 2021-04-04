@@ -1,0 +1,9 @@
+# bt_06
+
+Câu 2,
+  Hàm đệ quy không có điều kiện dừng -> đệ quy vô tận, lỗi bộ nhớ.
+Câu 3,
+  Hàm đệ quy gọi chính nó với giá trị ban đầu không đổi -> đệ quy vô tận, lỗi bộ nhớ.
+Câu 4,
+  
+  
